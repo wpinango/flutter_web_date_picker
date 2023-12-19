@@ -445,7 +445,7 @@ class _WebDatePickerState extends State<_WebDatePicker> {
 
                 /// Today
                 _iconWidget(Icons.today,
-                    tooltip: "Today", onTap: _onStartDateChanged),
+                    tooltip: "Hoy", onTap: _onStartDateChanged),
                 const Spacer(),
 
                 /// CANCEL
